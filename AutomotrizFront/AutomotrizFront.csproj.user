@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Presentacion\Autos\FrmModificarAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Consultas\FrmConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Autos\FrmConsultarAutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Facturas\FrmConsultarFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\FrmDesarrolladores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\FrmInicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Facturas\FrmModificarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Facturas\FrmNuevaFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Autos\FrmNuevoAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Presentacion\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\FrmReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

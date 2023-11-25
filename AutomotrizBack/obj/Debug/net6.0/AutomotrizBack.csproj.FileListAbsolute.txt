@@ -1,0 +1,140 @@
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\AutomotrizApp\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Pilar\Desktop\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Ulises\Desktop\labfinal\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\OneDrive\Educación\TUV\2do cuatrimestre\Programación II\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Ulises\Desktop\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Luca\Downloads\final\final\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Pilar\Pictures\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.Properties.Resources.resources
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.GenerateResource.cache
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Ulises\Desktop\prueba\TP Final\AutomotrizApp\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
